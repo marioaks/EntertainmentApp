@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Entertainment App</string>
+    <string name="app_label">search</string>
+    <string name="search_hint">hint</string>
+    <string name="title_activity_main">Main</string>
+    <string name="menu_stuff">menu_stuff</string>
+    <string name="menu_search">menu search</string>
+    <string name="search_result">search Result</string>
+</resources>
