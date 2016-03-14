@@ -6,4 +6,93 @@
     <string name="menu_stuff">menu_stuff</string>
     <string name="menu_search">menu search</string>
     <string name="search_result">search Result</string>
+
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tile">TileActivity</string>
+
+    <string name="media_default">Media</string>
+    <string-array name="media_array">
+        <item>Cinema</item>
+        <item>Literature</item>
+        <item>Television</item>
+        <item>Music</item>
+    </string-array>
+
+    <string name="login">Login</string>
+    <string name="percent_default">Progress</string>
+    <string-array name="percentages">
+        <item>0%</item>
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>40%</item>
+        <item>50%</item>
+        <item>60%</item>
+        <item>70%</item>
+        <item>80%</item>
+        <item>90%</item>
+        <item>100%</item>
+    </string-array>
+
+    <!-- Strings related to the profile page -->
+    <string name="home_screen">Home</string>
+    <string name="logout">Logout</string>
+    <string name="my_profile_screen">My Profile</string>
+    <string name="my_library_screen">My Library</string>
+    <string name="sample_profile">This is a sample profile</string>
+    <string name="search_screen">Search</string>
+
+    <string name="stat_books">Books read:</string>
+    <string name="stat_tv">Episodes watched:</string>
+    <string name="stat_movies">Films watched:</string>
+
+    <string name="profile_spinner_default">Feed</string>
+    <string-array name="profile_spinner_options">
+        <item>Feed</item>
+        <item>Reviews</item>
+        <item>Following</item>
+        <item>Followers</item>
+    </string-array>
+
+    <!-- Strings related to the library -->
+    <string name="library_menu_all">All</string>
+    <string name="library_menu_books">Books</string>
+    <string name="library_menu_movies_tv">Movies and TV Shows</string>
+    <string name="library_menu_music">Music</string>
+
+    <string name="library_add_button">New Entry</string>
+    <string name="library_spinner_default">Alphabetical</string>
+    <string-array name="library_spinner_options">
+        <item>Alphabetical</item>
+        <item>Finish Date</item>
+        <item>Genre</item>
+        <item>Rating</item>
+    </string-array>
+
+    <string name="library_adder_back">Back</string>
+    <string name="library_adder_name">Title</string>
+    <string name="library_adder_spinner_default">Movie/TV Show</string>
+    <string-array name="library_adder_spinner_options">
+        <item>Book</item>
+        <item>Movie/TV Show</item>
+        <item>Music</item>
+    </string-array>
+    <string name="library_adder_genre">Genre</string>
+    <string name="library_adder_rating">Rating</string>
+    <string name="library_adder_review">Review</string>
+    <string name="library_adder_save">Save</string>
 </resources>

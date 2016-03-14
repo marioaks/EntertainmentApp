@@ -1,4 +1,4 @@
-package marioaks.search;
+package marioaks.entertainmentApp;
 
 import android.app.ListActivity;
 import android.app.SearchManager;
@@ -12,6 +12,8 @@ import android.view.View;
 import android.widget.ListView;
 import android.widget.SearchView;
 import android.widget.TextView;
+
+import marioaks.search.R;
 
 public class Search extends AppCompatActivity {
     //private static final String API_KEY = "5";
@@ -53,10 +55,10 @@ public class Search extends AppCompatActivity {
     }
 
     private void performSearch(String wordTyped) {
-        TextView t = (TextView) findViewById(R.id.textView);
+        /*TextView t = (TextView) findViewById(R.id.textView);
         t.setText(wordTyped);
         System.out.println(wordTyped);
-     /*   new RequestTask().execute(
+        new RequestTask().execute(
                 "http://api.rottentomatoes.com/api/public/v1.0/movies.json?apikey="
                 + API_KEY + "&q=" + queryStr
                 + "&page_limit=" + MOVIE_PAGE_LIMIT);*/

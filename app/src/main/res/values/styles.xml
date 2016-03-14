@@ -18,6 +18,9 @@
         <item name="background">@color/header</item>
     </style>
 
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
     <color name="background">#edf4f7</color>
     <color name="header">#a5c8d9</color>
 
