@@ -21,7 +21,7 @@ import android.widget.ViewAnimator;
 import java.text.DateFormat;
 import java.util.Date;
 
-import marioaks.search.R;
+import marioaks.entertainmentApp.R;
 
 public class MainActivity extends AppCompatActivity {
 

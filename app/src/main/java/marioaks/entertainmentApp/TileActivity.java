@@ -13,7 +13,7 @@ import android.widget.Toast;
 import java.text.DateFormat;
 import java.util.Date;
 
-import marioaks.search.R;
+import marioaks.entertainmentApp.R;
 
 public class TileActivity extends AppCompatActivity {
 

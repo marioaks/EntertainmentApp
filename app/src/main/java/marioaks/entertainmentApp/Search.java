@@ -13,7 +13,7 @@ import android.widget.ListView;
 import android.widget.SearchView;
 import android.widget.TextView;
 
-import marioaks.search.R;
+import marioaks.entertainmentApp.R;
 
 public class Search extends AppCompatActivity {
     //private static final String API_KEY = "5";

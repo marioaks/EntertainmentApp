@@ -7,7 +7,7 @@ import android.text.TextUtils;
 import android.view.View;
 import android.widget.EditText;
 
-import marioaks.search.R;
+import marioaks.entertainmentApp.R;
 
 /**
  * A login screen that offers login via email/password.

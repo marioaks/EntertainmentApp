@@ -15,7 +15,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-import marioaks.search.R;
+import marioaks.entertainmentApp.R;
 
 public class LibraryActivity extends AppCompatActivity {
 

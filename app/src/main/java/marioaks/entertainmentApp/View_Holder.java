@@ -7,7 +7,7 @@ import android.widget.ImageView;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
-import marioaks.search.R;
+import marioaks.entertainmentApp.R;
 
 /**
  * Created by rajmehta on 2/23/16.

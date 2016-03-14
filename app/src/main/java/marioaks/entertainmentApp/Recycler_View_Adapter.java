@@ -9,7 +9,7 @@ import android.view.ViewGroup;
 import java.util.ArrayList;
 import java.util.List;
 
-import marioaks.search.R;
+import marioaks.entertainmentApp.R;
 
 /**
  * Created by rajmehta on 2/23/16.

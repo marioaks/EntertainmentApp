@@ -7,7 +7,7 @@ import android.widget.EditText;
 import android.widget.RatingBar;
 import android.widget.Spinner;
 
-import marioaks.search.R;
+import marioaks.entertainmentApp.R;
 
 public class LibraryAdderActivity extends AppCompatActivity {
 
